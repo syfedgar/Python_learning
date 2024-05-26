@@ -30,14 +30,14 @@
 #     num = num + 1
 # print("over")
 
-num = 1
-while num <= 10:
-    if num == 7:
-        pass
-    else:
-        print(num)
-    num = num + 1
-print("over")
+# num = 1
+# while num <= 10:
+#     if num == 7:
+#         pass
+#     else:
+#         print(num)
+#     num = num + 1
+# print("over")
 
 # m = 1
 # n = 0
@@ -51,3 +51,13 @@ print("over")
 # while num >= 1:
 #     print(num)
 #     num = num - 1
+
+# i = 1
+# while i <10:
+#     print(i)
+#     i = i + 2
+
+
+for i in range(1,10,3):
+    print(i)
+
