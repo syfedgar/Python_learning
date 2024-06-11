@@ -1,2 +1,9 @@
 # -*- coding:gbk -*-
-print("我是谁？Who're you?")
+# print("锟斤拷锟斤拷谁锟斤拷Who're you?")
+
+print("Hello, World!")
+print("Goodbye, World!")
+print("\nGoodbye, World!\n1\n2")
+ 
+
+
