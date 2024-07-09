@@ -15,3 +15,11 @@ turtle.fd(40)
 turtle.circle(16,180)
 turtle.fd(40*2/3)
 turtle.done()
+
+# from turtle import *
+# setup(650,350,200,200)
+# penup()
+
+# import turtle as t
+# t.setup(650,350,200,200)
+# t.penup()
